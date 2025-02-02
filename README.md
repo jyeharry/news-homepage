@@ -60,7 +60,7 @@ I'm going to continue working with Astro as I can see it being a very useful and
 ### Useful resources
 
 - [Astro's official docs](https://docs.astro.build/en/getting-started/)
-- [Kevin Powell's solution to this challenge](https://www.youtube.com/watch?v=Thudicbgqtg&t=9753s) - While I made my best efforts to complete this challenge on my own where I could, I looked to Kevin's solution for inspiration on the parts that I found a little trickier.
+- [Kevin Powell's solution to this challenge](https://www.youtube.com/watch?v=Thudicbgqtg) - While I made my best efforts to complete this challenge on my own where I could, I looked to Kevin's solution for inspiration on the parts that I found a little trickier.
 
 ## Author
 
