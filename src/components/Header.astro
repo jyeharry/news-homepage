@@ -43,13 +43,14 @@ import closeIcon from '../images/icon-menu-close.svg'
     position: sticky;
     top: 0;
     background-color: var(--off-white);
+    z-index: 10;
   }
 
   button {
     background: transparent;
     border: 0;
     position: relative;
-    z-index: 2;
+    z-index: 20;
     right: 0;
 
     .menu-close-icon {
@@ -99,7 +100,7 @@ import closeIcon from '../images/icon-menu-close.svg'
     transition-behavior: allow-discrete;
     transition-property: display, opacity;
     transition-duration: 0.2s;
-    z-index: 1;
+    z-index: 10;
     background-color: var(--off-white);
     right: 0;
 
